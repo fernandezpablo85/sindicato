@@ -4,6 +4,8 @@
 
 Software, economía, política y bardo salteño.
 
+[Stream on Twitch](https://www.twitch.tv/elsindicatodelsoftware)
+
 # Agenda
 
 ## Episodios
