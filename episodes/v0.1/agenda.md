@@ -7,6 +7,7 @@
 - Los hilos son una mierda / Twitter es (relativamente) una mierda
 - "Yo no soy data scientist ni programador. Pero eso no me invalida de investigar y opinar. Es como que me digas que no se puede ser crítico de cine si no sos director."
 - Los b6s [son culpa nuestra](https://twitter.com/fernandezpablo/status/1485350531933609991)
+- Cuáles son las voces del software que se escuchan hoy día? (crypto?)
 
 - Evitar ser crítico de cine
 
