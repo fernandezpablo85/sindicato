@@ -20,6 +20,7 @@
 
 #### Contenido del sindicato
 
+- Impermanencia
 - Software
 - Política / economía (invitados)
 - Libros
