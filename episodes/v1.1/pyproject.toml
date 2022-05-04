@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "rounding"
+version = "1.0.0"
+description = ""
+authors = ["Pablo Fernandez <fernandezpablo85@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+hypothesis = "^6.45.0"
+pytest = "^7.1.2"
+black = "^22.3.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
