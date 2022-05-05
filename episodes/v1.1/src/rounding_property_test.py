@@ -31,14 +31,11 @@ def test_percentages_should_be_all_positive(portfolio):
 
 @settings(max_examples=examples)
 @given(portfolios())
-def disabled_test_error_should_be_minimal(portfolio):
+def test_error_should_be_minimal(portfolio):
     pcts = percentages(portfolio)
-    note(pcts)
     raw = noround(portfolio)
-    note(raw)
     errors = [pcts[k] - raw[k] for k in pcts.keys()]
-    note(errors)
-    is_reasonable = [abs(e) < 3 for e in errors]
+    is_reasonable = [abs(e) < 1 for e in errors]
     assert all(is_reasonable)
 
 
