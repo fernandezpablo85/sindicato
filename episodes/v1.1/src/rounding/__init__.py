@@ -1,1 +1,1 @@
-from .less_dumb_rounding import percentages
+from .smart_rounding import percentages
